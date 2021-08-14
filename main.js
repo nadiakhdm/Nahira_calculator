@@ -1,4 +1,4 @@
-
+ 
 // add selector
 let inputLable = document.querySelector('#inout_lable')
 function handleButton(obj) {
